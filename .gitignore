@@ -1,6 +1,7 @@
 .git
 .metadata
 .settings
-buid
+/buid
 .classpath
 .project
+.gitignore
